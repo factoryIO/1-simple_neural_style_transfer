@@ -1,6 +1,6 @@
 # Neural Style Transfer made simple with Tresorio
 
-![image](/img/tresorio_logo.png)
+![image](/images/tresorio_logo.png)
 
 A project that use Tresorio cloud computing to transfer the style of a picture onto another.
 
@@ -121,28 +121,6 @@ Configurable parameters in code include:
 <img src="output/bormes_starrynight/generated_image.jpg" height="300">
 </div>
 
-<div align="center">
-<img src="images/flavian.jpg" height="400">
-</div>
-
-<div align="center">
-<img src="images/derain.jpg" height="300" width="300">
-<img src="output/flavian/flavian_derain.jpg" height="300">
-<img src="images/st_clair.jpg" height="300">
-<img src="output/flavian/flavian_st_clair.jpg" height="300" width="300">
-<img src="images/matisse.jpg" height="300">
-<img src="output/flavian/flavian_matisse.jpg" height="300">
-</div>
-
-
-<div align="center">
-<img src="images/vincent.jpg" height="200">
-<img src="images/picasso2.jpg" height="200" width="200">
-<img src="output/vincent_picasso.png" height="200">
-<img src="images/clement.jpg" height="200">
-<img src="images/edtaonisl.jpg" height="200" width="200">
-<img src="output/clement/edtaonisl.jpg" height="200">
-</div>
 
 
 ## Future improvements
