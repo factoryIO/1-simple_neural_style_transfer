@@ -70,8 +70,7 @@ Step 3: Link your dataset(s) to this simple_neural_style_transfer project
 Step 4: Start a training with Tresorio with the following commands:
 ```
 pip install -r requirements.txt
-python run.py --vgg_model /app/datasets/pretrained-model/imagenet-vgg-verydeep-19.mat
---content_image /app/datasets/images/content_image.jpg --style_image /app/datasets/images/style_image.jpg
+python run.py --vgg_model /app/datasets/pretrained-model/imagenet-vgg-verydeep-19.mat --content_image /app/datasets/images/content_image.jpg --style_image /app/datasets/images/style_image.jpg
 ```
 
 (In this example, the vgg-model and the style/content images are stored in separate datasets, "pretrained-model"
