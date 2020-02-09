@@ -1,4 +1,8 @@
-# Neural Style Transfer
+# Neural Style Transfer made simple with Tresorio
+
+![image](/img/tresorio_logo.png)
+
+A project that use Tresorio cloud computing to transfer the style of a picture onto another.
 
 TensorFlow implementation of "A Neural Algorithm of Artistic Style" by 
 Leon A. Gatys, Alexander S. Ecker, Matthias Bethge (https://arxiv.org/abs/1508.06576).
@@ -20,6 +24,35 @@ PIL
 Matplotlib
 
 imageio
+
+
+## First Step - Create an account on Tresorio
+
+Tresorio, the eco-friendly and affordable alternative for all your tasks and projects that require a lot of computing power! Each task started on Tresorio contribute to generate hot water to heat community buildings !
+
+Create an account on : https://tresorio.com/en/beta/
+
+![image](/images/tresorioscreen.png)
+
+
+## Second Step - Clone this repo:
+
+Clone this repo on your personal github to be able to launch the project on Tresorio.
+
+
+## Third Step - Create a project on your Tresorio account 
+
+Create a new cloud computing project on Tresorio dashboard.
+
+![image](/images/computingscreen.png)
+
+Link your Github account and select 1-simple_neural_style_transfer repo.
+
+Choose a powerpack and add the following line to your project command : \
+`pip install -r requirements.txt`
+
+![image](/images/projectscreen.png)
+
 
 
 ## Usage on Tresorio platform
