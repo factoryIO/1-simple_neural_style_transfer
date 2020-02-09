@@ -37,7 +37,9 @@ Create an account on : https://tresorio.com/en/beta/
 
 ## Second Step - Clone this repo:
 
-Clone this repo on your personal github to be able to launch the project on Tresorio.
+Import this repo into your personal github to be able to launch the project on Tresorio.
+
+How to do that ? Look over there : https://www.wikihow.com/Import-a-Repository-on-Github
 
 
 ## Third Step - Create a project on your Tresorio account 
